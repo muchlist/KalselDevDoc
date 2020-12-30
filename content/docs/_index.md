@@ -23,6 +23,8 @@ Untuk keperluan development dan testing bisa menggunakan aplikasi bernama Postma
 | Contoh Implementasi | Daftar source code atau tutorial implementasi Kalseldev Api |  |
 | Kontribusi | Temui orang-orang yang berkontribusi terhadap proyek ini |  |
 
+  
+{{< button "./auth/" "Next : Otorisasi API" >}}
 
 
 [1]: ./auth/
